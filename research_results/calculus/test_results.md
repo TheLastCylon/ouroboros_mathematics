@@ -119,7 +119,7 @@ to measure. The correction is geometrically exact for these functions;
 what remains is floating-point noise, not geometric error.
 
 **$x^4$ and $\sin(x)$:** The correction reduces the error but does not
-eliminate it. The ratio after correction is consistently 16.00 —
+eliminate it. The ratio after correction is consistently 16.00 --
 confirming $O(\Delta x^5)$ per interval, exactly as predicted. The
 correction does not reach zero because the curvature of these functions
 varies across the interval; the midpoint estimate of $f''$ captures the
@@ -203,7 +203,7 @@ single midpoint correction cannot capture.
 
 4. **The limit is not present in any of this.** The trapezoid sum and
    the curvature correction are both finite computations. The results
-   they produce are not approximations to a limit — they are exact
+   they produce are not approximations to a limit -- they are exact
    geometric quantities, evaluated in a number system of finite precision.
 
 ---

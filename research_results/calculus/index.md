@@ -1,4 +1,4 @@
-# Calculus — Index
+# Calculus -- Index
 ### Dirk J. Botha, April 2026
 
 Calculus from geometry. No limits. No infinitesimals. No rectangles.

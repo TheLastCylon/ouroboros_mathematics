@@ -40,7 +40,7 @@ Same geometry. Two questions.
 
 The instantaneous rate of change is this same ratio, evaluated at the
 point where $\Delta x = 0$. In $\mathbin{:}$ notation, that is the
-$S^+$ boundary — the ratio as the denominator approaches zero.
+$S^+$ boundary -- the ratio as the denominator approaches zero.
 
 $$f'(x) = [f(x + \Delta x) - f(x)] \mathbin{:} \Delta x \quad \text{at } S^+$$
 
@@ -85,7 +85,7 @@ On the unit circle, $\sin(\theta)$ is the height of a point at angle
 $\theta$ and $\cos(\theta)$ is its horizontal position. As $\theta$
 increases, the point moves along the arc. The rate of change of height
 with respect to arc length equals the horizontal coordinate at that
-point — and the rate of change of horizontal position equals the
+point -- and the rate of change of horizontal position equals the
 negative of the height. Both are geometric facts about the circle.
 
 $$\begin{aligned}
