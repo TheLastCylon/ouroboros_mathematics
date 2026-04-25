@@ -19,5 +19,6 @@ this repository. Read this first.
 | Topic                            | Contents                                                                                                                     |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | [`calculus/`](calculus/index.md) | Integration and differentiation from geometry; the trapezoid, the parabolic segment, the derivative as a $\mathbin{:}$ ratio |
+| [`trigonometry/`](trigonometry/index.md) | Six functions from three magnitudes; the boundary crossed not declared undefined; the Riemann sphere produced; five computation methods benchmarked |
 
 ---
