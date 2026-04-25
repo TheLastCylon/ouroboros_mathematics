@@ -61,7 +61,6 @@ tested (chord-geo, half-angle, versin, kite, Horner). Full results in
 
 ---
 
-*Previous documents: [`the_six_functions.md`](the_six_functions.md)
-through [`exact_computation.md`](exact_computation.md)*
-*Computational methods: [`computational_methods.md`](computational_methods.md)*
-*Notation register: [`../notation.md`](../notation.md)*
+- *Previous documents: [`the_six_functions.md`](the_six_functions.md) through [`exact_computation.md`](exact_computation.md)*
+- *Computational methods: [`computational_methods.md`](computational_methods.md)*
+- *Notation register: [`../notation.md`](../notation.md)*
