@@ -30,6 +30,7 @@ A trapezoid decomposes into two parts:
 - a **triangle** of base $\Delta x$ and height $y_2 - y_1$, where $y_2 = f(x_2)$
 
 Their areas:
+
 $$\begin{aligned}
 a_2 &= y_1 \cdot \Delta x \qquad &\text{(rectangle)} \\
 a_1 &= (y_2 - y_1) \cdot \Delta x \mathbin{:} 2 \qquad &\text{(triangle)}
