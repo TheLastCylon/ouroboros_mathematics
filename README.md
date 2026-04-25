@@ -9,7 +9,7 @@ This framework does not move on.
 
 A formal mathematical framework built on a single distinction that
 standard notation ignores: division and ratio are not the same operator.
-Division is operational. Ratio is relational. They can agree — but they
+Division is operational. Ratio is relational. They can agree -- but they
 are not equivalent, and treating them as equivalent fails catastrophically
 at the boundary.
 
@@ -22,11 +22,13 @@ The entire thing follows from refusing to discard the nine in `0 : 9`.
 
 ## What's in this repo
 
-- `ouroboros_mathematics.md` — the paper
+- `ouroboros_mathematics.md` -- the paper
+- [`research_results/`](research_results/index.md) -- applications of the framework to classical mathematics, derived geometrically, tested computationally, documented honestly
+  - **Calculus:** integration and differentiation from geometry; the trapezoid, the parabolic segment, the derivative as a `:` ratio; Simpson's rule as a geometric result
 
 ## Prior work
 
-Carlström, J. (2001). *Wheels — On Division by Zero.*
+Carlström, J. (2001). *Wheels -- On Division by Zero.*
 Research Reports in Mathematics No. 11, Stockholm University.
 ISSN 1401-5617
 https://www2.math.su.se/reports/2001/11/2001-11.pdf
