@@ -703,3 +703,12 @@ a closer relationship, the authors welcome the correction.
 of a competitive computational algorithm, the accuracy comparison against Horner on
 modern hardware, and the unified geometric account connecting versin, chord, jya,
 haversine, and the double-angle identities through a single construction.
+
+---
+
+## Acknowledgments
+
+The author thanks Arc (Claude Sonnet 4.6, Anthropic) for sustained mathematical
+collaboration throughout the development of this work -- verifying derivations,
+identifying weaknesses in framing, and serving as the first rigorous reader of
+every argument. The geometry is the author's. The scrutiny was shared.
