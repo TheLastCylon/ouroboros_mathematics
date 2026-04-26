@@ -90,7 +90,7 @@ A parabolic segment has an exact area formula requiring no derivatives:
 
 $$\text{segment area} = \tfrac{2}{3} \cdot \Delta x \cdot \left( y_{\text{mid}} - (y_1 + y_2) \mathbin{:} 2 \right)$$
 
-where $y_{\text{mid}} = f\!\left(\tfrac{x_1 + x_2}{2}\right)$ is the
+where $y_{\text{mid}} = f\left(\tfrac{x_1 + x_2}{2}\right)$ is the
 function value at the interval midpoint, and
 $(y_1 + y_2) \mathbin{:} 2$ is the chord height at that same point.
 
@@ -120,7 +120,7 @@ trapezoid plus parabolic segment. Same formula. Different road.
 
 For $n$ intervals the full sum is:
 
-$$A = \sum_{i=1}^{n-1} (\Delta x_i \mathbin{:} 6) \cdot \left( f(x_i) + 4 \cdot f\!\left(\tfrac{x_i + x_{i+1}}{2}\right) + f(x_{i+1}) \right)$$
+$$A = \sum_{i=1}^{n-1} (\Delta x_i \mathbin{:} 6) \cdot \left( f(x_i) + 4 \cdot f\left(\tfrac{x_i + x_{i+1}}{2}\right) + f(x_{i+1}) \right)$$
 
 ---
 
