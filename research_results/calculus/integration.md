@@ -140,13 +140,13 @@ rectangle. The rectangle was the wrong shape.
 
 What is removed:
 
-| Removed                    | Replaced by                                                          |
-|----------------------------|----------------------------------------------------------------------|
-| The limit                  | Finite $\mathbin{:}$ ratios in the formula derivation                |
-| The rectangle              | The trapezoid                                                        |
-| The Riemann sum            | A finite $\Sigma$ of exact trapezoid areas                           |
-| The integral sign $\int$   | $\Sigma$ notation is the complete statement                          |
-| $\varepsilon$-$\delta$     | Not needed. It compensates for rectangles; the trapezoid does not.   |
+| Removed                  | Replaced by                                                          |
+|--------------------------|----------------------------------------------------------------------|
+| The limit                | Finite $\mathbin{:}$ ratios in the formula derivation                |
+| The rectangle            | The trapezoid                                                        |
+| The Riemann sum          | A finite $\Sigma$ of exact trapezoid areas                           |
+| The integral sign $\int$ | $\Sigma$ notation is the complete statement                          |
+| $\varepsilon$ - $\delta$ | Not needed. It compensates for rectangles; the trapezoid does not.   |
 
 What is kept: every area the Riemann integral ever computed. For a general
 smooth function, accuracy improves as the partition is refined -- but no
