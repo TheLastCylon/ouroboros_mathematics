@@ -60,8 +60,9 @@ $$A = \sum_{i=1}^{n-1} \Delta x_i \cdot (f(x_i) + f(x_{i+1})) \mathbin{:} 2$$
 
 where $\Delta x_i = x_{i+1} - x_i$.
 
-This is the complete statement. Sigma notation closes it. No integral
-sign is needed.
+This is the complete statement for the area of the trapezoid. Sigma notation
+closes it. No integral sign is needed. What remains is the error correction
+for the parabolic sliver.
 
 ---
 
@@ -148,6 +149,17 @@ What is removed:
 | $\varepsilon$-$\delta$     | Not needed. No limit process is present     |
 
 What is kept: every area the Riemann integral ever computed.
+
+---
+
+## 8. Clarification
+
+Nothing we do here is new. Geometry always had the answer. We are still summing
+areas.
+
+What we get rid of is:
+1. The notational baggage of limits and epsilon delta.
+2. The educational trauma associated with both.
 
 ---
 
